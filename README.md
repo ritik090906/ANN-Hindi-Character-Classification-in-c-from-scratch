@@ -113,9 +113,3 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 - Compare with a PyTorch equivalent implementation
 
 ---
-
-## 🙋‍♂️ Author
-
-**Sarthak patial**  
-`Computer Science Undergraduate`  
-xarthak@proton.me , connect me over linkeden
