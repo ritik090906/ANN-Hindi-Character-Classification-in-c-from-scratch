@@ -43,7 +43,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 ### 🔁 Epochs vs Training Error and Testing Accuracy
 
 <p align="center">
-  <img src="images/Screenshot 2025-05-01 000352.png" width="600" alt="Epoch vs Error/Accuracy">
+  <img src="Screenshot 2025-11-09 160439.png" width="600" alt="Epoch vs Error/Accuracy">
 </p>
 
 ---
