@@ -106,3 +106,8 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 - Compare with a PyTorch equivalent implementation
 
 ---
+##Author
+- Ritik Sharma
+- 📧 [ritikh0309@gmail.com]
+- 💼 www.linkedin.com/in/ritik-sharma-47789924a
+---
