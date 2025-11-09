@@ -51,7 +51,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 ### 📈 3D Plot: Epochs vs Learning Rate vs Error/Accuracy
 
 <p align="center">
-  <img src="Screenshot 2025-05-04 202549.png" width="500" alt="3D Hyperparameter Plot">
+  <img src="Screenshot 2025-11-09 160516.png" width="500" alt="3D Hyperparameter Plot">
 </p>
 
 ---
@@ -59,7 +59,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 ### 📉 Confusion Matrix on Validation Set
 
 <p align="center">
-  <img src="images/Screenshot 2025-05-05 121605.png" width="300" alt="Confusion Matrix">
+  <img src="Screenshot 2025-11-09 161434.png" width="300" alt="Confusion Matrix">
 </p>
 
 - **Validation Accuracy:** `60.07%`
