@@ -98,13 +98,6 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 
 ---
 
-## 📽️ Demo & Notes
-
-- 🎥 *A screen recording video (training + testing)* will be pinned on LinkedIn & is also available in the result folder.
-- ✍️ *Handwritten derivations and architecture diagrams* are available in the `notes/` folder.
-
----
-
 ## 📌 TODO / Future Work
 
 - Expand dataset to include more characters
