@@ -51,7 +51,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 ### 📈 3D Plot: Epochs vs Learning Rate vs Error/Accuracy
 
 <p align="center">
-  <img src="images/Screenshot 2025-05-01 000411.png" width="500" alt="3D Hyperparameter Plot">
+  <img src="Screenshot 2025-05-04 202549.png" width="500" alt="3D Hyperparameter Plot">
 </p>
 
 ---
