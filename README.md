@@ -22,7 +22,7 @@ This project implements a **4-layer artificial neural network (ANN)** completely
 ## 📐 ANN Architecture
 
 <p align="center">
-  <img src="images/Screenshot 2025-05-04 202549.png" width="600" alt="Architecture Diagram">
+  <img src="Screenshot 2025-05-04 202549.png" width="600" alt="Architecture Diagram">
 </p>
 
 ---
